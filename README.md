@@ -1,8 +1,7 @@
 # Packet sniffing and spoofing lab
 
 Python scripts written with Scapy for the Packet Sniffing and Spoofing lab
-(SEED Labs), completed as part of the Network Security module of my MSc at
-Technological University of the Shannon.
+(SEED Labs), completed as part of the Network Security module of my MSc of software design with cybersecurity at Technological University of the Shannon.
 
 The lab runs on an Ubuntu 20.04 virtual machine, with an attacker and two
 hosts (10.9.0.5 and 10.9.0.6) running as Docker containers on an isolated
